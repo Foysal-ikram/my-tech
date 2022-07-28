@@ -9,3 +9,17 @@
 .img-b{
     filter: brightness(50%);
 }
+.fonts3{
+    font-family: 'Galdeano', sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+}
+
+.bg-custom{
+    background-color: rgb(19, 18, 18);
+    color: azure;
+}
+
+.bg-custom a {
+    color: aliceblue;
+}
