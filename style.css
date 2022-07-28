@@ -6,3 +6,6 @@
 .fonts2{
     font-family: 'Times New Roman', Times, serif;
 }
+.img-b{
+    filter: brightness(50%);
+}
